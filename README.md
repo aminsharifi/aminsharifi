@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminsharifi&theme=onedark" alt="aminsharifi" /></a> </p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aminsharifi&show_icons=true&count_private=false&theme=algolia" alt="Christian Schou" /></p>
+
 
 - 🔭 I’m currently working on [Cheetah](https://github.com/aminsharifi/Cheetah)
 
