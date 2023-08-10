@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad-Amin Sharifi</h1>
+<h1 align="center">Hi 👋, I'm Amin Sharifi</h1>
 <h3 align="center">A passionate BPMS and Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminsharifi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="aminsharifi" /> </p>
