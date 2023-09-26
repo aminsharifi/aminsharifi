@@ -28,3 +28,4 @@
 <p align="left">
    <a href="https://github.com/aminsharifi"><img src="https://github-profile-trophy.vercel.app/?username=aminsharifi&layout=compact&theme=algolia" alt="amin sharifi" /></a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aminsharifi)]
