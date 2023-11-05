@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **m.amin.sharifi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohammadaminsharifi](https://www.linkedin.com/in/mohammadaminsharifi)
+- 📄 Know about my experiences  [https://www.linkedin.com/in/mohammadaminsharifi](https://www.linkedin.com/in/mohammadaminsharifi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
