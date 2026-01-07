@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amin Sharifi</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminsharifi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="aminsharifi" /> </p>
-
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=aminsharifi&show_icons=true&count_private=false&theme=algolia" alt="amin sharifi" /></p>
 
 ## :sassy_man: About me
-- 🔭 I’m currently working on [Cheetah](https://github.com/aminsharifi/Cheetah)
+- 🔭 I’m currently working on [Cheetah](https://github.com/aminsharifi/Cheetah) & [BettingSlip](https://github.com/aminsharifi/BettingSlip)
 
-- 🌱 I’m currently learning **How to develop lightweight BPMS engine by latest open-source technologies**
-
-- 💬 Ask me about **BPMS and software development**
+- 💬 Ask me about **software development**
 
 - 📫 How to reach me **m.amin.sharifi@gmail.com**
 
